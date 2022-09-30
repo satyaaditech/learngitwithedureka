@@ -1,3 +1,4 @@
 Halo iki aku lagi sinau materi Git Lur
 
 - iki versi update sing sepisan ya Lur
+- iki tambahan kode neng khusus rebasebranch yo lur
